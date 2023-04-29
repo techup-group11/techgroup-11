@@ -5,6 +5,7 @@
 #header {	
     text-align: center;
     background-color: #247BA0;
+    margin: 300px;
 }
 
 #foto1 {
@@ -40,6 +41,7 @@ li a:hover {
     height: 22px;
     color: #247BA0;
 }
+
 .heading{
     font-size: medium;
     background-color: blue;
