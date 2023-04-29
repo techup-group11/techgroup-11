@@ -40,6 +40,13 @@ li a:hover {
     height: 22px;
     color: #247BA0;
 }
+.heading{
+    font-size: medium;
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+    
+}
 
 table {
     border-collapse: collapse;
@@ -65,20 +72,24 @@ th {
     padding: 0.5em;
     text-align: right;
 }
+
 .festa{
     color:#094074;
 }
+
 th:hover {
     background-color: aquamarine;
-  }
-  tr:nth-child(even){
+}
+
+
+tr:nth-child(even){
     background-color: green;
-    }
-    tr:nth-child(odd){
+} 
+tr:nth-child(odd){
     background-color: #247BA0;
-    }
+}
     
-      #header {
+#header {
         margin-left: 300px;
         margin-top: 200px;
       }
