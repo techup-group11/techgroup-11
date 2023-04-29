@@ -68,3 +68,23 @@ th {
 .festa{
     color:#094074;
 }
+th:hover {
+    background-color: aquamarine;
+  }
+  tr:nth-child(even){
+    background-color: green;
+    }
+    tr:nth-child(odd){
+    background-color: #247BA0;
+    }
+    #foto1:hover {
+        width: 200px;
+        height: 200px;
+        margin-left: 50px;
+        margin-top: 600px;
+      }
+      #header {
+        margin-left: 300px;
+        margin-top: 200px;
+      }
+     
